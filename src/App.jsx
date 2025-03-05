@@ -127,9 +127,9 @@ const App = () => {
           </div>
         </div>
       </div>
-
       <footer>
         <p className='p7'>Copyright 2023 Dscode | All rights reserved</p>
+        <p className='p7'>Owered By group 1077</p>
       </footer>
     </div>
   )
